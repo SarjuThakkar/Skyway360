@@ -18,6 +18,12 @@ body {
     text-align: center;
     font-family: 'Yantramanav', sans-serif;
 }
+.galleryitem{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 60%;
+}
 #back:link{
     text-decoration: none;
     color: black;

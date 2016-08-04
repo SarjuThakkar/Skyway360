@@ -36,20 +36,20 @@ body {
     position : relative; 
 }
 #about{
-    font-size: 5vh;
+    font-size: 3vh;
     text-align: center;
     font-family: 'Yantramanav', sans-serif;
 }
 #scheduleinfo{
     display: block;
-    font-size: 7vh;
+    font-size: 5vh;
     font-family: 'Yantramanav', sans-serif;
 }
 #footer{
     height: 8%;
     width: 100%;
     text-align: center;
-    font-size: 1rem;
+    font-size: 2.4vh;
     position : absolute;
     bottom : 0;
     font-family: 'Yantramanav', sans-serif;
