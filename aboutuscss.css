@@ -1,0 +1,71 @@
+html, 
+body {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-color: aliceblue;
+}
+#header{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    height: 12%;
+}
+#title{
+    font-size: 12vh;
+    margin: auto;
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+}
+#back:link{
+    text-decoration: none;
+    color: black;
+}
+#back:visited{
+    text-decoration: none;
+    color: black;
+}
+#back:hover{
+    text-decoration: none;
+    color: black;
+}
+#info{
+    height: 80%;
+    width: 100%;
+    position : relative; 
+}
+#about{
+    font-size: 5vh;
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+}
+#scheduleinfo{
+    display: block;
+    font-size: 7vh;
+    font-family: 'Yantramanav', sans-serif;
+}
+#footer{
+    height: 8%;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    position : absolute;
+    bottom : 0;
+    font-family: 'Yantramanav', sans-serif;
+}
+#contactinfo{
+    text-align: center;
+}
+#email:link{
+    text-decoration: none;
+    color: black;
+}
+#email:visited{
+    text-decoration: none;
+    color: black;
+}
+#email:hover{
+    text-decoration: none;
+    color: black;
+}

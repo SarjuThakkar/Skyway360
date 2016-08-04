@@ -1,0 +1,84 @@
+html, 
+body {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+#company{
+    height: 12%;
+    width: 100%;
+    text-align: center;
+    font-size: 12vh;
+    margin: auto;
+    font-family: 'Yantramanav', sans-serif;
+}
+#header{
+    height: 10%;
+    margin: auto;
+    font-size: 5vh;
+    font-family: 'Yantramanav', sans-serif;
+}
+.header{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+div{
+    position: absolute;
+    width: 100%;
+    height: 70%; 
+    margin: 0px;
+    background-image: url(http://i.imgur.com/fDFZeDx.png);
+    background-size: cover;
+}
+#greeting{
+    margin-top: 12%;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+    font-size: 8vh;
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+}
+#footer{
+    height: 8%;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    position : absolute;
+    bottom : 0;
+    font-family: 'Yantramanav', sans-serif;
+}
+#contactinfo{
+    text-align: center;
+}
+.under:link{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease;
+}
+.under:visited{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease;
+}
+#email:link{
+    text-decoration: none;
+    color: black;
+}
+#email:visited{
+    text-decoration: none;
+    color: black;
+}
+#email:hover{
+    text-decoration: none;
+    color: black;
+}
+.under:hover{
+    border-bottom: 3px solid black;
+}
