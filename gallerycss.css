@@ -43,7 +43,7 @@ body {
     font-family: 'Yantramanav', sans-serif;
 }
 .sampletitle:first-child {
-    padding-top: 3%;
+    padding-top: 2%;
 }
 .subtitle{
     font-size: 2vh;
@@ -51,10 +51,10 @@ body {
     text-align: center;
     height: 3.3%;
     font-family: 'Yantramanav', sans-serif;
+    padding: 1px;
 }
 .samplepic{
     margin: auto;
     height: 23%;
     display: block;
-    padding: 2%;
 }
