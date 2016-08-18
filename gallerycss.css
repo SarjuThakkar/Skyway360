@@ -31,7 +31,7 @@ body {
     color: black;
 }
 #gallery{
-    height: 80%;
+    height: 88%;
     width: 100%;
     position : relative; 
 }
@@ -56,28 +56,5 @@ body {
     margin: auto;
     height: 23%;
     display: block;
-}
-#footer{
-    height: 8%;
-    width: 100%;
-    text-align: center;
-    font-size: 2.4vh;
-    position : absolute;
-    bottom : 0;
-    font-family: 'Yantramanav', sans-serif;
-}
-#contactinfo{
-    text-align: center;
-}
-#email:link{
-    text-decoration: none;
-    color: black;
-}
-#email:visited{
-    text-decoration: none;
-    color: black;
-}
-#email:hover{
-    text-decoration: none;
-    color: black;
+    padding: 2%;
 }
